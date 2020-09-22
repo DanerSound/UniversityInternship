@@ -22,7 +22,6 @@ Day One:
   la carica rimanente di una batteria. 
   
  Day Two:
- 
  - Morning:
       * Introduzione di nozioni alla programmazione realTime
       * Presentazione degli ambienti di sviluppo STM32 cube e IAR_workbench
@@ -37,7 +36,7 @@ Day One:
     * Lettura codice di un programma: Approfondimenti riguardanti le notazioni del codice aziendali 
     * breve prova su una scheda MOB:
     * assistito alla programmazione di schede per gestione di motori di potenza
-    * imparato a cr
+    * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
 
 
 
