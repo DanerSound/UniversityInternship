@@ -14,14 +14,15 @@ Calcolo delle e Giorni del Tirocinio :
 
 Diario :
 
-Day One:
-* Assistito alla riparazione di una scheda.
-* Assistito alla creazione di una serie di test Per una scheda "Micro D"
-  in Ambiente LABVIEW.
-* Participato ai Test in Laboratorio di una scheda che misura 
-  la carica rimanente di una batteria. 
+1. Day One:
+ - All Day:
+    * Assistito alla riparazione di una scheda.
+    * Assistito alla creazione di una serie di test Per una scheda "Micro D"
+      in Ambiente LABVIEW.
+    * Participato ai Test in Laboratorio di una scheda che misura 
+      la carica rimanente di una batteria. 
   
- Day Two:
+2. Day Two:
  - Morning:
       * Introduzione di nozioni alla programmazione realTime
       * Presentazione degli ambienti di sviluppo STM32 cube e IAR_workbench
@@ -33,10 +34,10 @@ Day One:
         Produzione di una scheda MOB.
     
  - Afternoon:
-    * Lettura codice di un programma: Approfondimenti riguardanti le notazioni del codice aziendali 
-    * breve prova su una scheda MOB:
-    * assistito alla programmazione di schede per gestione di motori di potenza
-    * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
+      * Lettura codice di un programma: Approfondimenti riguardanti le notazioni del codice aziendali 
+      * breve prova su una scheda MOB:
+      * assistito alla programmazione di schede per gestione di motori di potenza
+      * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
 
 
 
