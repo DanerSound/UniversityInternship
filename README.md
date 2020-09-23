@@ -23,7 +23,7 @@ Diario :
       la carica rimanente di una batteria. 
   
 2. Day Two:
- - Morning:
+ - Morning:8.30- 12.30
       * Introduzione di nozioni alla programmazione realTime
       * Presentazione degli ambienti di sviluppo STM32 cube e IAR_workbench
       * Prove di visualizzazione delle variabili con IAR in _modalità live_ 
@@ -33,11 +33,21 @@ Diario :
       * spiegazioni di funzionamento del primo progetto di Alessio M:
         Produzione di una scheda MOB.
     
- - Afternoon:
+ - Afternoon:8.30- 19.30
       * Lettura codice di un programma: Approfondimenti riguardanti le notazioni del codice aziendali 
       * breve prova su una scheda MOB:
       * assistito alla programmazione di schede per gestione di motori di potenza
       * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
+ 
+ 3. Day Three: 
+  - Morning: 8.30- 12.30
+      * Assistito al colaudo di una scheda micro m, procedura sospessa per mancaza delle specifiche dal cliente
+      * Inizio studio dei commandi AT per il nina B112 con il software "Terminal v1.9b"
+      
+  - Afternon 14.00- 18.30
+      * Continuato a studiare i commandi AT 
+      * Ricevuto in consegna Motore Brushless e schede di controllo: iniziato a leggere la documentazione associata
+        per capire il loro funzionamento e cercare di accenderlo .
 
 
 
