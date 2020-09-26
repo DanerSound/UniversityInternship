@@ -14,7 +14,7 @@ Calcolo delle e Giorni del Tirocinio :
 
 Diario :
 
-1. Day One:
+1. Day :
  - All Day:
     * Assistito alla riparazione di una scheda.
     * Assistito alla creazione di una serie di test Per una scheda "Micro D"
@@ -22,7 +22,7 @@ Diario :
     * Participato ai Test in Laboratorio di una scheda che misura 
       la carica rimanente di una batteria. 
   
-2. Day Two:
+2. Day :
  - Morning:8.30- 12.30
       * Introduzione di nozioni alla programmazione realTime
       * Presentazione degli ambienti di sviluppo STM32 cube e IAR_workbench
@@ -39,7 +39,7 @@ Diario :
       * assistito alla programmazione di schede per gestione di motori di potenza
       * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
  
- 3. Day Three: 
+ 3. Day : 
   - Morning: 8.30- 12.30
       * Assistito al colaudo di una scheda micro m, procedura sospessa per mancaza delle specifiche dal cliente
       * Inizio studio dei commandi AT per il nina B112 con il software "Terminal v1.9b"
@@ -48,6 +48,15 @@ Diario :
       * Continuato a studiare i commandi AT 
       * Ricevuto in consegna Motore Brushless e schede di controllo: iniziato a leggere la documentazione associata
         per capire il loro funzionamento e cercare di accenderlo .
-
+        
+ 4. Day :
+  - Morning 8.15- 12.30
+      * Continuato lo studio del motore elettrico 
+  - Afternon 14.00- 18.45
+      * Accesso motore utilizzando i driver di base 
+      
+ 5. Day :
+  - All Day:
+      * Continuato lo studio del motore BL : cercato di definire un profilo
 
 
