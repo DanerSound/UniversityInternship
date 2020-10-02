@@ -58,7 +58,8 @@ Diario :
  5. Day : 25/09/2020
   - All Day:
       * Continuato lo studio del motore BL: cercato di definire un profilo con ST_Motor profile
-      
+ ----
+ 
  6. Day : 28/09/2020
  - All Day:
      * Continuato lo studio del motore BL: cercato di definire un profilo con ST_Motor profile
@@ -66,10 +67,23 @@ Diario :
  7. Day : 29/09/2020
  - All Day:
      * Continuato lo studio del motore BL: scoperto errori nella documentazione ufficiale, 
-       trovato l'errore in un post del forum di 3 anni fa, sistemato e completato il funzionamento
+       trovato l'errore in un post del forum di 3 anni fa, sistemato e completato 
+       la procedura di profiling del motore. 
      * Settaggio del motori usando St_motor motor workbench
      
  8. Day : 30/09/2020
+ - All Day:
+     * Continuato lo studio del motore BL: Cercato di impostare il programma St Motor control 
+     
+ 9. Day: 01/10/2020
+ - All Day:
+     * Continuato lo studio del motore BL: Cercato di impostare il programma St Motor control 
+     * definito il programma per lo svilluppo del progetto 
 
-
+10. Day: 02/10/2020
+- All Day:
+    *
+    
+----   
+    
 
