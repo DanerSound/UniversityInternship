@@ -14,6 +14,7 @@ Calcolo delle e Giorni del Tirocinio :
 ----
 Diario :
 ----
+## Settimana 1:
 1. Day : 21/09/2020
  - All Day:
     * Assistito alla riparazione di una scheda.
@@ -59,6 +60,7 @@ Diario :
   - All Day:
       * Continuato lo studio del motore BL: cercato di definire un profilo con ST_Motor profile
  ----
+ ## Settimana 2:
  
  6. Day : 28/09/2020
  - All Day:
@@ -81,8 +83,8 @@ Diario :
      * definito il programma per lo svilluppo del progetto 
 
 10. Day: 02/10/2020
-- All Day:
-    *
+- All Day: ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
+     * Continuato lo studio del motore BL : Ottenute le prime impostazioni di base con MC_workbench  
     
 ----   
     
