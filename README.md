@@ -11,9 +11,9 @@ Calcolo delle e Giorni del Tirocinio :
 | dicembre 2020 |     |        |
 |               |     |        |
 
-
+----
 Diario :
-
+----
 1. Day : 21/09/2020
  - All Day:
     * Assistito alla riparazione di una scheda.
