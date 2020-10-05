@@ -5,7 +5,7 @@ Calcolo delle e Giorni del Tirocinio :
 
 | Mese          | Ore | Giorni | 
 |---------------|-----|--------|
-| Settembre 2020|     |        |
+| Settembre 2020|     |   8    |
 | Ottobre 2020  |     |        |
 | Novembre 2020 |     |        |
 | dicembre 2020 |     |        |
@@ -89,6 +89,8 @@ Diario :
  ## Settimana 3:
  
  11. Day 05/10/2020
+     * Iniziato ad scrivere la mia documentazione/linee guida per la gestione del programma MOTOR CONTROL WORKBENCH
+       
  
  
  
