@@ -83,15 +83,22 @@ Diario :
      * definito il programma per lo svilluppo del progetto 
 
 10. Day: 02/10/2020
-- All Day: 
+ - All Day: 
 
      Ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
      * Continuato lo studio del motore BL : Ottenute le prime impostazioni di base con MC_workbench.    
 ----   
  ## Settimana 3:
  
- 11. Day 05/10/2020
+11. Day: 05/10/2020
+ - All Day:
      * Iniziato ad scrivere la mia documentazione/linee guida per la gestione del programma MOTOR CONTROL WORKBENCH
+     * cercato di capire come aggiornare il firmware documentandomi dal forum ufficiale, la documentazione ufficiale non funziona.
+     
+ 12. Day 06/10/2020
+    *
+     
+     
        
  
  
