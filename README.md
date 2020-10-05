@@ -5,7 +5,7 @@ Calcolo delle e Giorni del Tirocinio :
 
 | Mese          | Ore | Giorni | 
 |---------------|-----|--------|
-| Settembre 2020|     |   8    |
+| Settembre 2020|     |       8|
 | Ottobre 2020  |     |        |
 | Novembre 2020 |     |        |
 | dicembre 2020 |     |        |
@@ -84,6 +84,7 @@ Diario :
 
 10. Day: 02/10/2020
 - All Day: 
+
      Ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
      * Continuato lo studio del motore BL : Ottenute le prime impostazioni di base con MC_workbench.    
 ----   
