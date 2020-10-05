@@ -83,7 +83,8 @@ Diario :
      * definito il programma per lo svilluppo del progetto 
 
 10. Day: 02/10/2020
-- All Day: ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
+- All Day: 
+     Ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
      * Continuato lo studio del motore BL : Ottenute le prime impostazioni di base con MC_workbench.    
 ----   
  ## Settimana 3:
