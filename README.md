@@ -95,8 +95,12 @@ Diario :
      * Iniziato ad scrivere la mia documentazione/linee guida per la gestione del programma MOTOR CONTROL WORKBENCH
      * cercato di capire come aggiornare il firmware documentandomi dal forum ufficiale, la documentazione ufficiale non funziona.
      
- 12. Day 06/10/2020
-    *
+12. Day: 06/10/2020 - CAMBIAMENTO DEL PROGETTO DI TIROCINIO: Dopo averlo concordato con il colloquio con il relatore
+ - All Day: Creazione di un portale IoT per la gestione di un insieme di macchine
+     * Iniziato documentarmi riguardo al protocolo usato dalle macchine per communicare il loro "stato" esse usano 
+MQTT  
+     * Definizione schema di progetto
+      
      
      
        
