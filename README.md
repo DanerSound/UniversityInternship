@@ -100,6 +100,13 @@ Diario :
      * Iniziato documentarmi riguardo al protocolo usato dalle macchine per communicare il loro "stato" esse usano 
 MQTT  
      * Definizione schema di progetto
+     
+13. Day: 07/10/2020 
+-  All day: 
+    * Inizio corso MQTT 
+    * Breve analisi di alcuni TSDB: InfluxDB , DalmatierDB, Prometheus, RiakTS per la scelta del TSDB da adoperare. 
+    La scelta migliore per questo contesto è _InfluxDB_ data la sua principale carateristica di essere "STAND-ALONE"
+    * Inizio studio studio di Grafana come possibile Dasboard ( intermedia ? ) 
       
      
      
