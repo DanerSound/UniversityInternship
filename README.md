@@ -102,11 +102,22 @@ MQTT
      * Definizione schema di progetto
      
 13. Day: 07/10/2020 
--  All day: 
+ - All day: 
     * Inizio corso MQTT 
-    * Breve analisi di alcuni TSDB: InfluxDB , DalmatierDB, Prometheus, RiakTS per la scelta del TSDB da adoperare. 
+    * Analisi di alcuni TSDB: InfluxDB , DalmatierDB, Prometheus, RiakTS per la scelta del TSDB da adoperare. 
     La scelta migliore per questo contesto è _InfluxDB_ data la sua principale carateristica di essere "STAND-ALONE"
     * Inizio studio studio di Grafana come possibile Dasboard ( intermedia ? ) 
+ 
+14. Day: 08/10/2020 
+ - All day:
+    * Analisi di alcuni DB: PostgreSQL, mySQL, OracleDB, MS-SQLdb, Per la scelta del DB da integrare insieme al TSDB
+    La scelta migliero per questo contesto si è rilevata _PostgreSQL_ 
+    * Analisi AWS ( Amazon Web Services ) e Azure ( Windows ) per la scelta del cloud più appropriato per il deploy
+    La scelta migliore è _Azure_
+    
+15. Day: 09/10/2020
+ - All day:
+   * Studio dei particolari di influxDB
       
      
      
