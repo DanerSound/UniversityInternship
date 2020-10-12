@@ -118,7 +118,14 @@ MQTT
 15. Day: 09/10/2020
  - All day:
    * Studio dei particolari di influxDB
-      
+----   
+ ## Settimana 4:
+
+16. Day: 12/10/2020
+ - All day:
+   * Studio dei particolare di influxDB, primo tentativo di installazione su una macchina con ubuntu 18.04
+   
+   
      
      
        
