@@ -129,7 +129,13 @@ MQTT
 - All day:
    * mi è stato assegnato un progetto _alternativo_, che consiste nel creare due applicativi Java uno che genera valori casuali e unaltro che li riceve e li visualizza (con relativa interfaccia grafica), tutto quanto attraverso un indirizzo ip ( quindi gestione dei socket, risoluzione indirizzo ip) 
    Ho impostato l'iterfaccia grafica del Visualizzatore con
-   
+
+18. Day: 14/10/2020
+- All day:
+  * Implementazione dei Threat e relativi Socket per un collegamento Client-Server.
+  
+
+  
    
      
      
