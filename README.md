@@ -133,7 +133,13 @@ MQTT
 18. Day: 14/10/2020
 - All day:
   * Implementazione dei Threat e relativi Socket per un collegamento Client-Server.
+
+19. Day: 15/10/2020
+- All day:
+  * Completamento applicativo Java, Ho capito che Usare altri IDE al di fuori di Eclipse è il male assoluto.
+  * Impostazioni di base di mosquitto: prima prova con le impostazioni di base.
   
+20. Day: 
 
   
    
