@@ -139,7 +139,18 @@ MQTT
   * Completamento applicativo Java, Ho capito che Usare altri IDE al di fuori di Eclipse è il male assoluto.
   * Impostazioni di base di mosquitto: prima prova con le impostazioni di base.
   
-20. Day: 
+20. Day: 16/10/2020 
+- All day:
+  * Studiato mosquitto per capire come interfacciarlo con il mio applicativo desktop 
+  * ho capito che devo riscrivere il backend dell'interfaccia grafica per far si che funzioni. Ho inziato la riscrittura.
+----   
+ ## Settimana 5:
+ 
+ 21.Day:
+- All day:
+  * Completato l'applicativo Desktop "visualizzatore": questo applicativo è un subscriber che visualizza i messaggi del topic al cui si è inscritto.
+  
+  
 
   
    
