@@ -149,9 +149,17 @@ MQTT
 ----   
  ## Settimana 5:
  
- 21.Day:
+ 21.Day: 19/10/2020
 - All day:
-  * Completato l'applicativo Desktop "visualizzatore": questo applicativo è un subscriber che visualizza i messaggi del topic al cui si è inscritto.
+  * Completato l'applicativo Desktop "visualizzatore": questo applicativo è un subscriber che visualizza i messaggi del
+    topic al cui si è inscritto.
+ 
+ 22.Day:
+- All day: 20/10/2020
+  * Cercato un driver per una vecchio cavo di CANUSB 
+  * Generalizzato l'applicativo, per ricevere costantemente messaggi da parte dei rispettivi pubblisher
+    riscontratto alcuni problemi con l'interfaccia grafica. 
+    
   
   
 
