@@ -160,6 +160,10 @@ MQTT
   * Generalizzato l'applicativo, per ricevere costantemente messaggi da parte dei rispettivi pubblisher
     riscontratto alcuni problemi con l'interfaccia grafica. 
     
+ 22.Day:
+- All day: 21/10/2020
+  * Generalizzato ulteriormente: ho sistemato il problema della visualizzazione  
+    
   
   
 
