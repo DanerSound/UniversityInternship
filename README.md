@@ -163,10 +163,11 @@ MQTT
  22.Day:
 - All day: 21/10/2020
   * Generalizzato ulteriormente: ho sistemato il problema della visualizzazione, stampando i messaggi come uno stack.
-  * Aggiunta la funzionalità di potere scrivere su file. 
+  * Aggiunta la funzionalità di potere scrivere su file, fatto refactoring
   * ricevuto altre specifiche riguardo il progetto finale:
     Devo creare una interfaccia grafica, usando i java mdi form : con due modalità di funzionamento  Manuale e Automatico (speficiare i milliSecondi) 
-    deve rappresentare i valori : 
+    deve rappresentare i valori :
+    
         * Corrente Motore: Trazione, Spazole, Aspirazione, Temperatura.
         * Tensione Alimentazione, 3 motori
         * velocita 
