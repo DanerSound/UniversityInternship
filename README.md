@@ -149,21 +149,21 @@ MQTT
 ----   
  ## Settimana 5:
  
- 21.Day: 19/10/2020
+ 21. Day: 19/10/2020
 - All day:
   * Completato l'applicativo Desktop "visualizzatore": questo applicativo è un subscriber che visualizza i messaggi del
     topic al cui si è inscritto.
  
- 22.Day:
+ 22. Day:
 - All day: 20/10/2020
-  * Cercato un driver per una vecchio cavo di CANUSB 
-  * Generalizzato l'applicativo, per ricevere costantemente messaggi da parte dei rispettivi pubblisher
+  * Cercato un driver per una vecchio cavo di CANUSB .
+  * Generalizzato l'applicativo, per ricevere costantemente messaggi da parte dei rispettivi pubblisher.
     riscontratto alcuni problemi con l'interfaccia grafica. 
     
- 22.Day:
+ 22. Day:
 - All day: 21/10/2020
   * Generalizzato ulteriormente: ho sistemato il problema della visualizzazione, stampando i messaggi come uno stack.
-  * Aggiunta la funzionalità di potere scrivere su file, fatto refactoring
+  * Aggiunta la funzionalità di potere scrivere su file, fatto refactoring.
   * ricevuto altre specifiche riguardo il progetto finale:
     Devo creare una interfaccia grafica, usando i java mdi form : con due modalità di funzionamento  Manuale e Automatico (speficiare i milliSecondi) 
     deve rappresentare i valori :
@@ -174,6 +174,17 @@ MQTT
         * stato : OK / Errore (poter conoscere il codice errore)
         * (Futura aggiunta gestione dei log)  
         
+ 23. Day:
+- All day: 22/10/2020
+  * Studiato particolari delle interfacce grafiche Java MDI.
+  * Iniziato a preparare la nuova interfaccia grafica per gestione Automatioca e Manuale delle macchine di test.
+
+ 24. Day: 
+- All day: 23/10/2020
+  * Studiato il servizio di [ThinkSpeak IOT](https://thingspeak.com/) per tirare su una versione beta della dashboard.
+  * Ho cercato di tirare su il servizio con le impostazioni di base.
+  * ho definito lo schema del progetto ma è una soluzione molto complicata per essere attuata in tempi brevi .
+  
   
     
   
