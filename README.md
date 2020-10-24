@@ -185,6 +185,9 @@ MQTT
   * Ho cercato di tirare su il servizio con le impostazioni di base.
   * ho definito lo schema del progetto ma è una soluzione molto complicata per essere attuata in tempi brevi .
   
+  ----   
+ ## Settimana 6:
+  
   
     
   
