@@ -188,6 +188,18 @@ MQTT
   
   ----   
  ## Settimana 6:
+ 
+ 25. Day: 
+- All day: 26/10/2020 : Questa settimana ho iniziato a lavorare da casa perche forse sono stato esposto al virus del covid
+  * collegato un client di prova al portale : ho dovuto riescrivere il client per riadattarlo alle condizioni del portale.
+  * ho cercato di completare l'interfaccia grafica dell'applicativo java. ho de grossi problemi con l'allinemanto e l'ordine
+  
+ 26. Day: 
+- All day: 27/10/2020
+  * creata macchina di test, 
+  * 
+  * 
+  
   
   
     
