@@ -196,9 +196,11 @@ MQTT
   
  26. Day: 
 - All day: 27/10/2020
-  * creata macchina di test, 
-  * 
-  * 
+  * Completata interfaccia grafica per la gestione automatica delle macchine di test
+  * Creato macchina di test, creato generatore di valori casuali. 
+  * Inizio dello studio dello stato dell'Arte delle IoT dasboard
+  
+  
   
   
   
