@@ -199,10 +199,24 @@ MQTT
   * Completata interfaccia grafica per la gestione automatica delle macchine di test
   * Creato macchina di test, creato generatore di valori casuali. 
   * Inizio dello studio dello stato dell'Arte delle IoT dasboard
-  
-  
-  
-  
+
+ 27. Day: 
+- All day: 28/10/2020
+  * Raccolto informazione necessaria per il collegamento con il portale thinkspeak
+  * Riscritto client, provato a trasferire dati (usando il terminale), 
+    problemi con la generazione e gestione di un pool di thread concorrenti. 
+
+ 28. Day: 
+- All day: 29/10/2020
+  * Collegato interfaccia grafica svilluppata con netBeans con il codice scritto in eclipse:Ho riscontratto molto problemi
+  eseguito primi test di rendering delle varie finestre MDI
+     
+ 29. Day: 
+- All day: 30/10/2020
+  * Completato l'elavorato con l'invio autoamatico dei valori da parte di UN solo thread: 
+    Ho visto che i thread sono più veloci del portale. l'invio manuale delle informazioni è la migliore scelta per i primi test.
+  * Completato elavorato, creato canali di prova e widget associato.
+  * fatto video dimostrativo DEMO .
   
     
   
