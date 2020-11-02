@@ -187,7 +187,7 @@ MQTT
   * ho definito lo schema del progetto ma è una soluzione molto complicata per essere attuata in tempi brevi .
   
   ----   
- ## Settimana 6:
+ ## Settimana 6: Questa settimana ho iniziato a lavorare da casa perche forse sono stato esposto al virus del covid
  
  25. Day: 
 - All day: 26/10/2020 : Questa settimana ho iniziato a lavorare da casa perche forse sono stato esposto al virus del covid
@@ -218,6 +218,18 @@ MQTT
   * Completato elavorato, creato canali di prova e widget associato.
   * fatto video dimostrativo DEMO .
   
+ ----   
+ ## Settimana 7: Questa ho continuato a lavorare da casa
+ 
+ 30. Day:
+ - all day: 01/11/2020
+ * Eseguito le prime prove di installazione di Mosquitto su cloud, sto usando il mio account personale di AWS perche Azure (windows)
+ Non accetta' le carte prepagate.
+ * Ho capito come collegare il broker al database in modo da aggirare il problema del iot-agent
+ * Creato l'organizzazione private su github per gestion esclusiva dei progetti 
+ 
+ 
+ 
     
   
   
