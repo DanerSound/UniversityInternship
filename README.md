@@ -228,6 +228,30 @@ MQTT
  * Ho capito come collegare il broker al database in modo da aggirare il problema del iot-agent
  * Creato l'organizzazione private su github per gestion esclusiva dei progetti 
  
+  31. Day:
+ - all day: 02/11/2020
+ * provato senza successo ad collegare mosquitto ad i client locale
+ * studiato e provato a creare delle sottoretti su AWS
+ 
+  32. Day:
+ - all day: 03/11/2020
+ * cercato di far funzionare il servizio in AWS 
+ 
+   33. Day:
+ - all day: 04/11/2020
+ * cercato di far funzionare il servizio in AWS
+ * riscritto il client subscriber e rioganizzazione
+ 
+   34. Day:
+ - all day: 05/11/2020
+ * Studiato il portale thingspeak ulteriormente, creato moduli di supporto in _python_
+ * Installato _mysql_ con l'ambiente di svillupo di _mysql-workbench_ per eseguire le prime prove di insierimento su db 
+ * creato script python che mi permette di collegare al database.
+ 
+   36. Day:
+ - all day: 06/11/2020
+ 
+ 
  
  
     
