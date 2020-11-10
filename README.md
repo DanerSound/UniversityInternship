@@ -237,19 +237,21 @@ MQTT
  - all day: 03/11/2020
  * cercato di far funzionare il servizio in AWS 
  
-   33. Day:
+  33. Day:
  - all day: 04/11/2020
  * cercato di far funzionare il servizio in AWS
  * riscritto il client subscriber e rioganizzazione
  
-   34. Day:
+  34. Day:
  - all day: 05/11/2020
  * Studiato il portale thingspeak ulteriormente, creato moduli di supporto in _python_
  * Installato _mysql_ con l'ambiente di svillupo di _mysql-workbench_ per eseguire le prime prove di insierimento su db 
  * creato script python che mi permette di collegare al database.
  
-   36. Day:
+  35. Day:
  - all day: 06/11/2020
+ * creato da zero degli script in python che mi permettono di fare push su database: grazie a questi moduli riesco manipolare un database relazionale.
+ * ricercando con più impegno ho trovato dei pluging e framework per pycharm che mi permettono una gestione più agevole delle basi di dati. 
  
  
  
