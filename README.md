@@ -223,35 +223,35 @@ MQTT
  
  30. Day:
  - all day: 01/11/2020
- * Eseguito le prime prove di installazione di Mosquitto su cloud, sto usando il mio account personale di AWS perche Azure (windows)
+  * Eseguito le prime prove di installazione di Mosquitto su cloud, sto usando il mio account personale di AWS perche Azure (windows)
  Non accetta' le carte prepagate.
- * Ho capito come collegare il broker al database in modo da aggirare il problema del iot-agent
- * Creato l'organizzazione private su github per gestion esclusiva dei progetti 
+  * Ho capito come collegare il broker al database in modo da aggirare il problema del iot-agent
+  * Creato l'organizzazione private su github per gestion esclusiva dei progetti 
  
   31. Day:
  - all day: 02/11/2020
- * provato senza successo ad collegare mosquitto ad i client locale
- * studiato e provato a creare delle sottoretti su AWS
+  * provato senza successo ad collegare mosquitto ad i client locale
+  * studiato e provato a creare delle sottoretti su AWS
  
   32. Day:
  - all day: 03/11/2020
- * cercato di far funzionare il servizio in AWS 
+  * cercato di far funzionare il servizio in AWS 
  
   33. Day:
  - all day: 04/11/2020
- * cercato di far funzionare il servizio in AWS
- * riscritto il client subscriber e rioganizzazione
+  * cercato di far funzionare il servizio in AWS
+  * riscritto il client subscriber e rioganizzazione
  
   34. Day:
  - all day: 05/11/2020
- * Studiato il portale thingspeak ulteriormente, creato moduli di supporto in _python_
- * Installato _mysql_ con l'ambiente di svillupo di _mysql-workbench_ per eseguire le prime prove di insierimento su db 
- * creato script python che mi permette di collegare al database.
+  * Studiato il portale thingspeak ulteriormente, creato moduli di supporto in _python_
+  * Installato _mysql_ con l'ambiente di svillupo di _mysql-workbench_ per eseguire le prime prove di insierimento su db 
+  * creato script python che mi permette di collegare al database.
  
   35. Day:
  - all day: 06/11/2020
- * creato da zero degli script in python che mi permettono di fare push su database: grazie a questi moduli riesco manipolare un database relazionale.
- * ricercando con più impegno ho trovato dei pluging e framework per pycharm che mi permettono una gestione più agevole delle basi di dati. 
+  * creato da zero degli script in python che mi permettono di fare push su database: grazie a questi moduli riesco manipolare un database relazionale.
+  * ricercando con più impegno ho trovato dei pluging e framework per pycharm che mi permettono una gestione più agevole delle basi di dati. 
  
  
  
