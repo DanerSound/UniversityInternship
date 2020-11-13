@@ -274,10 +274,16 @@ MQTT
    * definizione parziale di un template di valutazione 
  
   39. Day:
- - all day:
+ - all day: 12/11/20
+   * portato avanti analisi di thingspeak 
+   * mi hanno chiamato dalla sede e assegnato un lavoro di analisi alternativo, per un progetto che serve a loro : il problema consiste nel capèire se si può trovare un gateway che riceve dati in LORAWAN e li rimanda a destinazione seguendo il protocollo mqtt
 
   40. Day:
  - all day:
+   * portato avanti il lavoro di analisi, studio e attivazione in locale di node-red eseguito delle prove
+   * costruito un semplice modello pub/sub 
+   * cercato di capire le tesi che mi sono state fornite dal titolare in una precedente mail e guardato gli strumenti elencati nella mail arrivati nel pomeriggio 
+     forse abbiamo trovato uno strumento che può risolvere quel problema.
  
  ----   
  ## Settimana 9:
