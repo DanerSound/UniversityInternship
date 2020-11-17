@@ -279,7 +279,7 @@ MQTT
    * mi hanno chiamato dalla sede e assegnato un lavoro di analisi alternativo, per un progetto che serve a loro : il problema consiste nel capèire se si può trovare un gateway che riceve dati in LORAWAN e li rimanda a destinazione seguendo il protocollo mqtt
 
   40. Day:
- - all day:
+ - all day: 13/11/20
    * portato avanti il lavoro di analisi, studio e attivazione in locale di node-red eseguito delle prove
    * costruito un semplice modello pub/sub 
    * cercato di capire le tesi che mi sono state fornite dal titolare in una precedente mail e guardato gli strumenti elencati nella mail arrivati nel pomeriggio 
@@ -289,7 +289,19 @@ MQTT
  ## Settimana 9:
 
   41. Day:
- - all day: 
+ - all day: 16/11/20
+   * guardato ulteriormente il protocolo LORAWAN 
+   * definito il template per il confronto delle piataforme interessate
+   * completato l'analisi di thingSpeak e iniziato l'analisi di thingerIO
+   
+   42 Day:
+ - all day: 1711/20
+   * Completato l'analisi di thingerIO, iniziato l'analisi di thingsboard
+   * scritto delle note per l'elaborato finale, 
+   * iniziato foglio exel che racchiude i dati piu importanti dei primi 3 portali 
+   
+   
+ 
 
  
     
