@@ -295,10 +295,28 @@ MQTT
    * completato l'analisi di thingSpeak e iniziato l'analisi di thingerIO
    
    42 Day:
- - all day: 1711/20
-   * Completato l'analisi di thingerIO, iniziato l'analisi di thingsboard
-   * scritto delle note per l'elaborato finale, 
-   * iniziato foglio exel che racchiude i dati piu importanti dei primi 3 portali 
+ -  all day: 17/11/20
+    * Completato una prima versione dell'analisi di thingerIO, iniziato l'analisi di thingsboard
+    * scritto delle note per l'elaborato finale, 
+    * iniziato foglio exel che racchiude i dati piu importanti dei primi 3 portali
+   
+   43 Day:
+ - all day: 18/11/20
+    * Riscritto l'analisi di Thingspeak, thinger.io, thingBoard :
+    * 
+    * iniziato a documentarmi su AWS per i servizi iot 
+ 
+   44 Day:
+ - all day: 19/11/20 
+    * Studiato ulteriormente AWS: ho capito che dispone delle funzionalita apposta per la gestione dei servizi iot
+     ( ovviamente a pagamento a me serve una versione di prova ).
+    * Per mantenere uno schema di progetto semplice, ho riadattato lo schema originale:
+      questo sfrutta i servizi: iot_core di AWS 
+      
+   45 Day:
+ - all day: 20/11/20 
+    * 
+ 
    
    
  
