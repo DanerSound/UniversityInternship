@@ -315,7 +315,8 @@ MQTT
       
    45 Day:
  - all day: 20/11/20 
-    * 
+    * ristrutturato i documento scritti precedentemente, 
+    * creato uno nuovo schema di progetto dedicato per i cloud: analizzato il programma  di aws.
  
    
    
