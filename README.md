@@ -317,6 +317,14 @@ MQTT
  - all day: 20/11/20 
     * ristrutturato i documento scritti precedentemente, 
     * creato uno nuovo schema di progetto dedicato per i cloud: analizzato il programma  di aws.
+    
+----   
+ ## Settimana 9:
+
+  46. Day: 23/11/20
+    * strutturato la presentazione della ricerca 
+    * seguito due webinar riguarle le tecnologie iot
+    
  
    
    
