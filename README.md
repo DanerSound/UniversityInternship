@@ -324,6 +324,17 @@ MQTT
   46. Day: 23/11/20
     * strutturato la presentazione della ricerca 
     * seguito due webinar riguarle le tecnologie iot
+    * completato la preparazione delle richerche per il giorno dopo 
+    
+  47. Day: 24/11/20
+    * riscritto parzialmente alcuni documenti  
+    * preparato la presentazione del giorno 
+    
+  48. Day: 25/11/20
+    *   
+    *  
+    
+    
     
  
    
