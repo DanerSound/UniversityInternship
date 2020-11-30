@@ -9,9 +9,9 @@ Calcolo delle e Giorni del Tirocinio :
 
 | Mese          | Ore | Giorni | 
 |---------------|-----|--------|
-| Settembre 2020|     |   8|
-| Ottobre 2020  |     |        |
-| Novembre 2020 |     |        |
+| Settembre 2020|     |   8    |
+| Ottobre 2020  |     |   31   |
+| Novembre 2020 |     |   30   |
 | dicembre 2020 |     |        |
 |               |     |        |
 
@@ -319,7 +319,7 @@ MQTT
     * creato uno nuovo schema di progetto dedicato per i cloud: analizzato il programma  di aws.
     
 ----   
- ## Settimana 9:
+ ## Settimana 10:
 
   46. Day: 23/11/20
     * strutturato la presentazione della ricerca 
@@ -331,8 +331,35 @@ MQTT
     * preparato la presentazione del giorno 
     
   48. Day: 25/11/20
-    *   
-    *  
+    * scritto delle note, per la relazione finale.
+    * ultimato la ricerca riguardo i portali iot e servizi cloud 
+    * ripetuto per la presentazione del pomeriggio
+    * presentato nel tardo pomeriggio
+    * iniziato l'approfondimento riguardo i prezzi di Azure e AWS
+  
+  49. Day: 26/11/20
+    * ristrutturano gli schemi di progetto 
+    * creato uno schema alternativo perche i prezzi di AWS e AZURE sono eccessivi per lo svillupo di una DEMO
+    * completato scritto la relazione " Analisi di prezzi " per AWS
+    * iniziato la ricerca per AZURE
+    
+  50. Day 27/11/20 
+    * completato la ricerca su AZURE
+    * ristrutturato gli schemi di lavoro 
+    * approfondito l'analisi di influx e grafana
+    * preparato la presentazione di pomeriggio 
+    * dopo la presentazione assegnato un nuovo compito: 
+      Approndire fino a che punto è possibile manipolare gli oggetti di grafana e 
+      scoprire se è possibile collegar influxDB a power BI
+      
+ ----   
+ ## Settimana 11:
+ 
+  51. Day 30/11/2020
+    * iniziato la ricerca su Grafana e Power BI:
+       
+      
+      
     
     
     
