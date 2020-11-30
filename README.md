@@ -321,29 +321,34 @@ MQTT
 ----   
  ## Settimana 10:
 
-  46. Day: 23/11/20
+  46. Day: 
+  - all day: 23/11/20
     * strutturato la presentazione della ricerca 
     * seguito due webinar riguarle le tecnologie iot
     * completato la preparazione delle richerche per il giorno dopo 
     
-  47. Day: 24/11/20
+  47. Day:
+  - all day: 24/11/20
     * riscritto parzialmente alcuni documenti  
     * preparato la presentazione del giorno 
     
-  48. Day: 25/11/20
+  48. Day:
+  - all day:  25/11/20
     * scritto delle note, per la relazione finale.
     * ultimato la ricerca riguardo i portali iot e servizi cloud 
     * ripetuto per la presentazione del pomeriggio
     * presentato nel tardo pomeriggio
     * iniziato l'approfondimento riguardo i prezzi di Azure e AWS
   
-  49. Day: 26/11/20
+  49. Day:
+  - all day: 26/11/20
     * ristrutturano gli schemi di progetto 
     * creato uno schema alternativo perche i prezzi di AWS e AZURE sono eccessivi per lo svillupo di una DEMO
     * completato scritto la relazione " Analisi di prezzi " per AWS
     * iniziato la ricerca per AZURE
     
-  50. Day 27/11/20 
+  50. Day: 
+  - all day: 27/11/20 
     * completato la ricerca su AZURE
     * ristrutturato gli schemi di lavoro 
     * approfondito l'analisi di influx e grafana
