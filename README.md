@@ -361,7 +361,11 @@ MQTT
  ## Settimana 11:
  
   51. Day 30/11/2020
+    * ho iniziato ad scrivere le prime pagine del elaborato finale, ho definito una scaletta
     * iniziato la ricerca su Grafana e Power BI:
+      Influx si può integrare con grafana, attraverso Odata
+      ho installato grafana, e provato ad mettere un basboard di prova  
+      
        
       
       
