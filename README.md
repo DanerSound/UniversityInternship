@@ -366,6 +366,17 @@ MQTT
       Influx si può integrare con grafana, attraverso Odata
       ho installato grafana, e provato ad mettere un basboard di prova  
       
+  52. Day 01/12/2020
+    * Aprofondito schema per l'elaborato finale
+    * creato istanza di grafana 
+    ho dei seri problemi per cercare di installare influx correttamente 
+    
+  53. Day 02/12/2020
+    * ho cercato di far tornare influx 
+    
+
+
+      
        
       
       
