@@ -373,6 +373,12 @@ MQTT
     
   53. Day 02/12/2020
     * ho cercato di far tornare influx 
+    * la lavorato sul testo dell'elaborato finale, ho racolto del materiale
+    * impostato lo schema di lavoro
+    
+  54. Day 03/12/2020
+    * iniziato il refactoring dell'applicativo java per generare machine.
+    * 
     
 
 
