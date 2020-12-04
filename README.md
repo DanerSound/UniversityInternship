@@ -377,8 +377,13 @@ MQTT
     * impostato lo schema di lavoro
     
   54. Day 03/12/2020
+    * trovato due articoli di IEEEE per l'elaborato finale
     * iniziato il refactoring dell'applicativo java per generare machine.
-    * 
+    
+  55. Day 04/12/2020
+    * completato il refactoring del applicativo java
+    * creato le istanze di telegraf, grafana, influx.
+   
     
 
 
