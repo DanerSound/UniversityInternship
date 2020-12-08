@@ -7,13 +7,15 @@ This is my diary of university Internship
 
 Calcolo delle e Giorni del Tirocinio :
 
-| Mese          | Ore | Giorni | 
-|---------------|-----|--------|
-| Settembre 2020|     |   8    |
-| Ottobre 2020  |     |   31   |
-| Novembre 2020 |     |   30   |
-| dicembre 2020 |     |        |
-|               |     |        |
+| Mese           | Ore | Giorni | 
+|----------------|-----|--------|
+| Settembre 2020 |     |   8    |
+| Ottobre 2020   |     |   31   |
+| Novembre 2020  |     |   30   |
+| Dicembre 2020  |     |        |
+| Gennaio 2021   |     |        |
+| Febbraio 2021  |     |        |
+| Marzo 2021     |     |        |
 
 ----
 Diario :
@@ -360,29 +362,52 @@ MQTT
  ----   
  ## Settimana 11:
  
-  51. Day 30/11/2020
+  51. Day:
+  - all day: 30/11/2020
     * ho iniziato ad scrivere le prime pagine del elaborato finale, ho definito una scaletta
     * iniziato la ricerca su Grafana e Power BI:
       Influx si può integrare con grafana, attraverso Odata
       ho installato grafana, e provato ad mettere un basboard di prova  
       
-  52. Day 01/12/2020
+  52. Day:
+  - all day: 01/12/2020
     * Aprofondito schema per l'elaborato finale
     * creato istanza di grafana 
     ho dei seri problemi per cercare di installare influx correttamente 
     
-  53. Day 02/12/2020
+  53. Day
+  - all day: 02/12/2020
     * ho cercato di far tornare influx 
     * la lavorato sul testo dell'elaborato finale, ho racolto del materiale
     * impostato lo schema di lavoro
     
-  54. Day 03/12/2020
+  54. Day:
+  - all day: 03/12/2020
     * trovato due articoli di IEEEE per l'elaborato finale
     * iniziato il refactoring dell'applicativo java per generare machine.
     
-  55. Day 04/12/2020
+  55. Day:
+  - all day: 04/12/2020
     * completato il refactoring del applicativo java
     * creato le istanze di telegraf, grafana, influx.
+    
+    
+  ----   
+ ## Settimana 12:
+ 
+  56. Day:
+  - all day: 07/12/2020
+    * provato senza successo a collegare mosquitto a telegraf,
+    * eseguito le prime prove di gestione del database influxdb
+    
+  57. Day:  
+  - all day: 08/12/2020
+    * creato il file config per mosquitto e telegraf
+    * collegato broker a telegraf: riesco a mandare dati e visulizarli 
+    
+    
+  
+
    
     
 
