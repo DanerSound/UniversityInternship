@@ -406,11 +406,12 @@ MQTT
     * collegato broker a telegraf: riesco a mandare dati e visulizarli
     * preparato la presentazione di del giorno dopo
     
-  58. Day:  
+  58. Day:  _Dato che da siamo diventati zona arancione, da questa data è prevista la mi presenza in azienda più spesso._
   - all day: 09/12/2020
     * presentazione rimandata a domani per via delle consegne aziendali 
     * cambiato schema di lavoro: mando ogni valore singolarmente
-    * 
+    * firmato dei document riguardo la privacy, sicurezza, e varie .
+    
    
   
 
