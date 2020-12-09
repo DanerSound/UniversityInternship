@@ -403,9 +403,15 @@ MQTT
   57. Day:  
   - all day: 08/12/2020
     * creato il file config per mosquitto e telegraf
-    * collegato broker a telegraf: riesco a mandare dati e visulizarli 
+    * collegato broker a telegraf: riesco a mandare dati e visulizarli
+    * preparato la presentazione di del giorno dopo
     
-    
+  58. Day:  
+  - all day: 09/12/2020
+    * presentazione rimandata a domani per via delle consegne aziendali 
+    * cambiato schema di lavoro: mando ogni valore singolarmente
+    * 
+   
   
 
    
