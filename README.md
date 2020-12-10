@@ -412,6 +412,14 @@ MQTT
     * cambiato schema di lavoro: mando ogni valore singolarmente
     * firmato dei document riguardo la privacy, sicurezza, e varie .
     
+  59. Day:
+  - all day: 10/12/2020
+    * studiato la versione free di grafana, purtroppo non posso mettere i pluging 
+      che aumentano le funzionalità delle dashboard
+    * iniziato lo studio di microsftsql-server per la gestione degli utenti. 
+      
+    
+    
    
   
 
