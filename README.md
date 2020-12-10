@@ -416,7 +416,8 @@ MQTT
   - all day: 10/12/2020
     * studiato la versione free di grafana, purtroppo non posso mettere i pluging 
       che aumentano le funzionalità delle dashboard
-    * iniziato lo studio di microsftsql-server per la gestione degli utenti. 
+    * iniziato lo studio di microsftsql-server per la gestione degli utenti.
+    * refattorizzato parzialmente il codicce dell'applicativo per mandare in automatico
       
     
     
