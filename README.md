@@ -1,7 +1,5 @@
 # UniversityInternship
 
-this is th
-
 
 This is my diary of university Internship
 
@@ -418,7 +416,16 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
     
   60. Day:
   - all day: 11/12/2020
-    * continuato ad scrivere la documentazione specifica dei software documentazione   
+    * Completato la documentazione di mosquitto broker
+    * approfondito lo studio di grafana: 
+      scoperto l'esistenza delle VARIABILI in Grafana, intesse come dei _placeholder_ :
+      il valore della variabile sarà assegnato in un secondo momento attraverso un menù a tendina a run-time che aggiornerà il valore del Panel a cui è associato.
+      Il panel deve essere impostato in modo tale che ascolti il cambiamento della variabile. Vanno impostate a modo.
+    * cercato di creare degli utenti di prova a cui associare delle dashboard adhoc, 
+      ma non ho capito come attivare il servizio SMTP di grafana e legarlo alla mia mail 
+    * Migliorato la presentazione della documentazione. 
+    
+   
     
     
    
