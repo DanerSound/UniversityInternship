@@ -21,16 +21,16 @@ Calcolo delle e Giorni del Tirocinio :
 Diario :
 ----
 ## Settimana 1:
-1. Day : 21/09/2020
- - All Day:
+1. Day :
+ - All Day: 21/09/2020
     * Assistito alla riparazione di una scheda.
     * Assistito alla creazione di una serie di test Per una scheda "Micro D"
       in Ambiente LABVIEW.
     * Participato ai Test in Laboratorio di una scheda che misura 
       la carica rimanente di una batteria. 
   
-2. Day : 22/09/2020
- - Morning:8.30- 12.30
+2. Day : 
+ - All Day: 22/09/2020
       * Introduzione di nozioni alla programmazione realTime
       * Presentazione degli ambienti di sviluppo STM32 cube e IAR_workbench
       * Prove di visualizzazione delle variabili con IAR in _modalità live_ 
@@ -39,121 +39,116 @@ Diario :
       * Breve spiegazione dei protocolli di funzionamento CAN (Controllo Area Network)
       * spiegazioni di funzionamento del primo progetto di Alessio M:
         Produzione di una scheda MOB.
-    
- - Afternoon:8.30- 19.30
       * Lettura codice di un programma: Approfondimenti riguardanti le notazioni del codice aziendali 
       * breve prova su una scheda MOB:
       * assistito alla programmazione di schede per gestione di motori di potenza
       * imparato a crimpare il cavi FIT a 4 vie e assistito alla saldatura di un connettore seriale 
  
- 3. Day : 23/09/2020
-  - Morning: 8.30- 12.30
+ 3. Day : 
+  - All Day : 23/09/2020
       * Assistito al colaudo di una scheda micro m, procedura sospessa per mancaza delle specifiche dal cliente
       * Inizio studio dei commandi AT per il nina B112 con il software "Terminal v1.9b"
-      
-  - Afternon 14.00- 18.30
       * Continuato a studiare i commandi AT 
       * Ricevuto in consegna Motore Brushless e schede di controllo: iniziato a leggere la documentazione associata
         per capire il loro funzionamento e cercare di accenderlo .
         
- 4. Day : 24/09/2020
-  - Morning 8.15- 12.30
+ 4. Day : 
+  - All Day : 24/09/2020 
       * Continuato lo studio del motore elettrico 
-  - Afternon 14.00- 18.45
       * Accesso motore utilizzando i driver di base 
       
- 5. Day : 25/09/2020
-  - All Day:
+ 5. Day : 
+  - All Day: 25/09/2020
       * Continuato lo studio del motore BL: cercato di definire un profilo con ST_Motor profile
  ----
  ## Settimana 2:
  
- 6. Day: 28/09/2020
- - All Day:
+ 6. Day: 
+ - All Day: 28/09/2020
      * Continuato lo studio del motore BL: cercato di definire un profilo con ST_Motor profile
      
- 7. Day: 29/09/2020
- - All Day:
+ 7. Day: 
+ - All Day: 29/09/2020
      * Continuato lo studio del motore BL: scoperto errori nella documentazione ufficiale, 
        trovato l'errore in un post del forum di 3 anni fa, sistemato e completato 
        la procedura di profiling del motore. 
      * Settaggio del motori usando St_motor motor workbench
      
- 8. Day: 30/09/2020
- - All Day:
+ 8. Day: 
+ - All Day: 30/09/2020
      * Continuato lo studio del motore BL: Cercato di impostare il programma St Motor control 
      
- 9. Day: 01/10/2020
- - All Day:
+ 9. Day: 
+ - All Day: 01/10/2020
      * Continuato lo studio del motore BL: Cercato di impostare il programma St Motor control 
      * definito il programma per lo svilluppo del progetto 
 
-10. Day: 02/10/2020
- - All Day: 
-
+10. Day: 
+ - All Day: 02/10/2020 
      Ho capito che la documentazione ufficiale è pratticamente inutile perchè non è aggiornata
      * Continuato lo studio del motore BL : Ottenute le prime impostazioni di base con MC_workbench.    
 ----   
  ## Settimana 3:
  
-11. Day: 05/10/2020
- - All Day:
+11. Day: 
+ - All Day: 05/10/2020
      * Iniziato ad scrivere la mia documentazione/linee guida per la gestione del programma MOTOR CONTROL WORKBENCH
      * cercato di capire come aggiornare il firmware documentandomi dal forum ufficiale, la documentazione ufficiale non funziona.
      
-12. Day: 06/10/2020 - CAMBIAMENTO DEL PROGETTO DI TIROCINIO: Dopo averlo concordato con il colloquio con il relatore
- - All Day: Creazione di un portale IoT per la gestione di un insieme di macchine
-     * Iniziato documentarmi riguardo al protocolo usato dalle macchine per communicare il loro "stato" esse usano 
-MQTT  
-     * Definizione schema di progetto
+CAMBIAMENTO DEL PROGETTO DI TIROCINIO: Dopo averlo concordato con il colloquio con il relatore     
+Creazione di un portale IoT per la gestione di un insieme di macchine
+12. Day: 
+ - All Day: 06/10/2020 
+     * Iniziato documentarmi riguardo al protocolo usato dalle macchine per communicare il loro "stato" esse usano MQTT  
+     * Definizione di un possibile schema di progetto
      
-13. Day: 07/10/2020 
- - All day: 
+13. Day:  
+ - All day: 07/10/2020 
     * Inizio corso MQTT 
     * Analisi di alcuni TSDB: InfluxDB , DalmatierDB, Prometheus, RiakTS per la scelta del TSDB da adoperare. 
     La scelta migliore per questo contesto è _InfluxDB_ data la sua principale carateristica di essere "STAND-ALONE"
     * Inizio studio studio di Grafana come possibile Dasboard ( intermedia ? ) 
  
-14. Day: 08/10/2020 
- - All day:
+14. Day: 
+ - All day: 08/10/2020 
     * Analisi di alcuni DB: PostgreSQL, mySQL, OracleDB, MS-SQLdb, Per la scelta del DB da integrare insieme al TSDB
     La scelta migliero per questo contesto si è rilevata _PostgreSQL_ 
     * Analisi AWS ( Amazon Web Services ) e Azure ( Windows ) per la scelta del cloud più appropriato per il deploy
     La scelta migliore è _Azure_
     
-15. Day: 09/10/2020
- - All day:
+15. Day: 
+ - All day: 09/10/2020
    * Studio dei particolari di influxDB
 ----   
  ## Settimana 4:
 
-16. Day: 12/10/2020
- - All day:
+16. Day: 
+ - All day: 12/10/2020
    * Studio dei particolare di influxDB, primo tentativo di installazione su una macchina con ubuntu 18.04
    
-17. Day: 13/10/2020
-- All day:
+17. Day: 
+- All day: 13/10/2020
    * mi è stato assegnato un progetto _alternativo_, che consiste nel creare due applicativi Java uno che genera valori casuali e unaltro che li riceve e li visualizza (con relativa interfaccia grafica), tutto quanto attraverso un indirizzo ip ( quindi gestione dei socket, risoluzione indirizzo ip) 
    Ho impostato l'iterfaccia grafica del Visualizzatore con
 
-18. Day: 14/10/2020
-- All day:
+18. Day: 
+- All day: 14/10/2020
   * Implementazione dei Threat e relativi Socket per un collegamento Client-Server.
 
-19. Day: 15/10/2020
-- All day:
+19. Day: 
+- All day: 15/10/2020
   * Completamento applicativo Java, Ho capito che Usare altri IDE al di fuori di Eclipse è il male assoluto.
   * Impostazioni di base di mosquitto: prima prova con le impostazioni di base.
   
-20. Day: 16/10/2020 
-- All day:
+20. Day: 
+- All day: 16/10/2020 
   * Studiato mosquitto per capire come interfacciarlo con il mio applicativo desktop 
   * ho capito che devo riscrivere il backend dell'interfaccia grafica per far si che funzioni. Ho inziato la riscrittura.
 ----   
  ## Settimana 5:
  
- 21. Day: 19/10/2020
-- All day:
+ 21. Day: 
+- All day: 19/10/2020
   * Completato l'applicativo Desktop "visualizzatore": questo applicativo è un subscriber che visualizza i messaggi del
     topic al cui si è inscritto.
  
@@ -408,17 +403,22 @@ MQTT
     
   58. Day:  _Dato che da siamo diventati zona arancione, da questa data è prevista la mi presenza in azienda più spesso._
   - all day: 09/12/2020
-    * presentazione rimandata a domani per via delle consegne aziendali 
-    * cambiato schema di lavoro: mando ogni valore singolarmente
+    * presentazione rimandata a domani per via delle consegne aziendali. 
+    * cambiato schema di lavoro: mando ogni valore singolarmente .
     * firmato dei document riguardo la privacy, sicurezza, e varie .
     
   59. Day:
   - all day: 10/12/2020
-    * studiato la versione free di grafana, purtroppo non posso mettere i pluging 
-      che aumentano le funzionalità delle dashboard
+    * studiato la versione free di grafana, purtroppo non posso mettere i pluging. 
+      che aumentano le funzionalità delle dashboard.
     * iniziato lo studio di microsftsql-server per la gestione degli utenti.
-    * refattorizzato parzialmente il codicce dell'applicativo per mandare in automatico
-      
+    * refattorizzato parzialmente il codicce dell'applicativo per mandare in automatico.
+    * iniziato a scrivere la documentazione specifica di ogni singolo software che ho usato.
+    * presentato e definito una prima versione dell'Elaborato finale.
+    
+  60. Day:
+  - all day: 11/12/2020
+    * continuato ad scrivere la documentazione specifica dei software documentazione   
     
     
    
