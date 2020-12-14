@@ -432,6 +432,9 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
   61. Day:
   - all day: 14/12/2020
   * sono andato avanti con la scrittura della documentazione specifica 
+  * ho capito come generare variabili su grafana: l'obbietivo attuale è risucre ad impostare a modo per riuscire a gestire più macchine con una sola dashboard 
+  sopratutto in questo modo riusciamo ad agregare  i dati di più macchine. 
+  
   
     
    
