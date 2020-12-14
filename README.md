@@ -425,6 +425,15 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
       ma non ho capito come attivare il servizio SMTP di grafana e legarlo alla mia mail 
     * Migliorato la presentazione della documentazione. 
     
+    
+      ----   
+ ## Settimana 13:
+ 
+  61. Day:
+  - all day: 14/12/2020
+  * sono andato avanti con la scrittura della documentazione specifica 
+  
+    
    
     
     
