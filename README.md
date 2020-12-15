@@ -439,6 +439,10 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
    - all day: 14/12/2020
    * ancora tentativi per cercare di controllare le variabili di grafana 
    * mi hanno dato gli accessi di un virtual server privato: prima di poterlo usare devo mappare il contenuto, e vedere le caratteristiche 
+     ho raccolto alcuni dati utili: ho visto che il server dispone da una piattarforma docker: per non creare confusione con i servizi attualmente che il 
+     server espone mi appoggerò a docker cercherò di installare i miei container e far tornare il servizio. 
+     
+     
    
   
   
