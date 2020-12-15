@@ -441,7 +441,8 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
    * mi hanno dato gli accessi di un virtual server privato: prima di poterlo usare devo mappare il contenuto, e vedere le caratteristiche 
      ho raccolto alcuni dati utili: ho visto che il server dispone da una piattarforma docker: per non creare confusione con i servizi attualmente che il 
      server espone mi appoggerò a docker cercherò di installare i miei container e far tornare il servizio. 
-     
+   * iniziato un corso di tre ore su docker: 
+   * provato ad installare docker su linux-mint 
      
    
   
