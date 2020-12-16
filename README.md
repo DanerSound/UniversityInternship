@@ -431,18 +431,51 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
  
   61. Day:
   - all day: 14/12/2020
-  * sono andato avanti con la scrittura della documentazione specifica 
-  * ho capito come generare variabili su grafana: l'obbietivo attuale è risucre ad impostare a modo per riuscire a gestire più macchine con una sola dashboard 
-  sopratutto in questo modo riusciamo ad agregare  i dati di più macchine. 
+    * sono andato avanti con la scrittura della documentazione specifica 
+    * ho capito come generare variabili su grafana: l'obbietivo attuale è risucre ad impostare a modo per riuscire a gestire più macchine con una sola dashboard 
+    sopratutto in questo modo riusciamo ad agregare  i dati di più macchine. 
   
    62. Day:
-   - all day: 14/12/2020
-   * ancora tentativi per cercare di controllare le variabili di grafana 
-   * mi hanno dato gli accessi di un virtual server privato: prima di poterlo usare devo mappare il contenuto, e vedere le caratteristiche 
-     ho raccolto alcuni dati utili: ho visto che il server dispone da una piattarforma docker: per non creare confusione con i servizi attualmente che il 
-     server espone mi appoggerò a docker cercherò di installare i miei container e far tornare il servizio. 
-   * iniziato un corso di tre ore su docker: 
-   * provato ad installare docker su linux-mint 
+   - all day: 15/12/2020
+    * ancora tentativi per cercare di controllare le variabili di grafana 
+    * mi hanno dato gli accessi di un virtual server privato: prima di poterlo usare devo mappare il contenuto, e vedere le caratteristiche 
+      ho raccolto alcuni dati utili: ho visto che il server dispone da una piattarforma docker: per non creare confusione con i servizi attualmente che il 
+      server espone mi appoggerò a docker cercherò di installare i miei container e far tornare il servizio. 
+    * iniziato un corso di tre ore su docker: 
+    * provato ad installare docker su linux-mint
+   
+   63. Day:
+   - all day: 16/12/2020
+    * ho installato docker, e provato a lanciare dei commandi: ho subito rotto un file di configurazione
+    * ho seguito un corso per imparare ad usare docker
+      a fine giornata ho seguito delle prove in maniera efficiente.
+    * scritto delle note per l'eborato finale.
+    
+   64. Day:
+   - all day: 17/12/2020
+    
+    * 
+    
+    *
+    
+    * 
+    
+   65. Day:
+   - all day: 18/12/2020
+   
+    * 
+    
+    *
+    
+    * 
+    
+----
+PAUSA DI NATALE
+----
+    
+   
+      
+      
      
    
   
