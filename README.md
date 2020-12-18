@@ -460,9 +460,9 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
     
    65. Day:
    - all day: 18/12/2020
-     *
-     * 
-     *
+     * Ho portato i servizi online : mosquitto broker, telegraf, influxdb, e influxUI (una semplice interfaccia per la gestione di influx online)
+     i problemi che si sono verificati ieri erano dovuto alla stanchezza dato che cerano delle righe nel file di configurazione che non tornavano 
+     * documentato come ho fatto a far funzionare le cose . 
      * 
      * 
     
