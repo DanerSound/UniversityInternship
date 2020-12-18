@@ -453,20 +453,17 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
     
    64. Day:
    - all day: 17/12/2020
-    
-   * 
-    
-   *
-    
-   * 
+    * completato corso su docker:
+    * sono risucito a mettere sul server, il mio broker personale e interagire con esso.
+    * eseguito delle prove in locale sono riuscito a far comunicare tra loro i servizi di broker, telegraf, influx ed influxUI
+    * ho provato a riportare lo stesso ragionamento anche online, ho trovato delle difficoltà che non avevo riscontrato prima
     
    65. Day:
    - all day: 18/12/2020
-   
-   * 
-    
    *
-    
+   * 
+   *
+   * 
    * 
     
 ----
