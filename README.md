@@ -464,11 +464,13 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
      i problemi che si sono verificati ieri erano dovuto alla stanchezza dato che cerano delle righe nel file di configurazione che non tornavano 
      * scritto una documentazione parziale.  
 
+
 ----
-----
+
 PAUSA DI NATALE 21/12/2020 - 25/12/2020
+
 ----
-----
+
 
 
    66. Day
