@@ -463,10 +463,13 @@ Creazione di un portale IoT per la gestione di un insieme di macchine
      * Ho portato i servizi online : mosquitto broker, telegraf, influxdb, e influxUI (una semplice interfaccia per la gestione di influx online)
      i problemi che si sono verificati ieri erano dovuto alla stanchezza dato che cerano delle righe nel file di configurazione che non tornavano 
      * scritto una documentazione parziale.  
-         
+
+----
 ----
 PAUSA DI NATALE 21/12/2020 - 25/12/2020
 ----
+----
+
 
    66. Day
    - all day: 28/12/2020 
