@@ -481,7 +481,9 @@ PAUSA DI NATALE 21/12/2020 - 25/12/2020
      
    67. Day
    - all day: 29/12/2020
-     * 
+     * momentaneamente ho fermato la ricerca della creazione delle variabili su grafana
+     * attivato il servizio di SMTP da grafana, abilitato l'alert e creazione degli utenti 
+     * creazione dei teams e assegnazione le dashboard dedicate
    
       
       
