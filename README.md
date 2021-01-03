@@ -10,7 +10,7 @@ Calcolo delle e Giorni del Tirocinio :
 | Settembre 2020 |     |   8    |
 | Ottobre 2020   |     |   31   |
 | Novembre 2020  |     |   30   |
-| Dicembre 2020  |     |        |
+| Dicembre 2020  |     |   31   |
 | Gennaio 2021   |     |        |
 | Febbraio 2021  |     |        |
 | Marzo 2021     |     |        |
