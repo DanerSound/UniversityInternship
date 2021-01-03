@@ -471,8 +471,6 @@ PAUSA DI NATALE 21/12/2020 - 25/12/2020
 
 ----
 
-
-
    66. Day
    - all day: 28/12/2020 
      * ho scritto un po di documentazione 
@@ -485,6 +483,29 @@ PAUSA DI NATALE 21/12/2020 - 25/12/2020
      * attivato il servizio di SMTP da grafana, abilitato l'alert e creazione degli utenti 
      * creazione dei teams e assegnazione le dashboard dedicate
      * creato il container di grafana riesco a puntarlo dall'esterno : problemi con la personalizzazione del servizio 
+     
+   68. Day
+   - all day: 30/12/2020
+     * ottimizzato la comunicazione tra i vari servizi
+     * creato i vari team di lavoro con gi utenti assegnato le dashboard
+     * scritto un po di documentazione
+     
+   69. Day
+   - all day: 31/12/2020
+     * preparato la presentazione di lunedi 04 gennaio 
+     * definito i passi per le prossime iterazioni : gestione utenti/ dashboard personalizzate
+     * cambiato colore alle dashboard
+     
+----
+
+ANNO NUOVO : 2021
+
+----
+
+   70. Day
+   - all day: 04/01/2021
+     * 
+     *
    
       
       
@@ -495,7 +516,7 @@ PAUSA DI NATALE 21/12/2020 - 25/12/2020
     
    
     
-    
+     
    
   
 
