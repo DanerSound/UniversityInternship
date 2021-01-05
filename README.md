@@ -512,9 +512,10 @@ ANNO NUOVO : 2021
      
    71. Day
    - all day: 05/01/2021
-     * 
-     *
-     *
+     * scritto una pagina di login html css puri
+     * scritto un funzione javascrip che mi valida id e password di un utente di prova
+     * cercado di capire come creare il collegamento tra la pagina e il database docker, non ci sono riuscisto 
+     * scritto un po di documentazione 
      
       
       
