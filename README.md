@@ -93,8 +93,9 @@ Diario :
      * Iniziato ad scrivere la mia documentazione/linee guida per la gestione del programma MOTOR CONTROL WORKBENCH
      * cercato di capire come aggiornare il firmware documentandomi dal forum ufficiale, la documentazione ufficiale non funziona.
      
-CAMBIAMENTO DEL PROGETTO DI TIROCINIO: Dopo averlo concordato con il colloquio con il relatore     
-Creazione di un portale IoT per la gestione di un insieme di macchine
+CAMBIAMENTO DEL PROGETTO DI TIROCINIO: 
+Dopo averlo concordato con il colloquio con il relatore Creazione di un portale IoT per la gestione di un insieme di macchine
+
 12. Day: 
  - All Day: 06/10/2020 
      * Iniziato documentarmi riguardo al protocolo usato dalle macchine per communicare il loro "stato" esse usano MQTT  
@@ -504,9 +505,17 @@ ANNO NUOVO : 2021
 
    70. Day
    - all day: 04/01/2021
+     * creato container posgresql, cerano alcuni problemi di conessione
+     * installato il container pgAdmin e collegato al container server postgrest
+     * eseguito delle prove di popolamento e alcune query 
+     * seguito un tutorial per creare un login 
+     
+   71. Day
+   - all day: 05/01/2021
      * 
      *
-   
+     *
+     
       
       
      
