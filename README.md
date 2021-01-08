@@ -516,8 +516,20 @@ ANNO NUOVO : 2021
      * scritto un funzione javascrip che mi valida id e password di un utente di prova
      * cercado di capire come creare il collegamento tra la pagina e il database docker, non ci sono riuscisto 
      * scritto un po di documentazione 
-     
+   
+   72. Day
+   - all day: 06/01/2021
+     * guardato dei tutorial riguardo jscript node-js
+     * 
+   73. Day  
+   - all day: 07/01/2021
+     * 
+     * 
       
+   74. Day  
+   - all day: 08/01/2021
+     * 
+     * 
       
      
    
