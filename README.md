@@ -520,16 +520,18 @@ ANNO NUOVO : 2021
    72. Day
    - all day: 06/01/2021
      * guardato dei tutorial riguardo jscript node-js
-     * 
+     * guardato dei tutorial riguardo Bootstrap
+     * scritto un po di documentazione
+     
    73. Day  
    - all day: 07/01/2021
-     * 
-     * 
+     * provato ad impostare bootstrap per il server 
+     * scritto un po di documentazione 
       
    74. Day  
    - all day: 08/01/2021
-     * 
-     * 
+     * provato ad impostare bootstrap per il server 
+     * scritto un po di documentazione 
       
      
    
