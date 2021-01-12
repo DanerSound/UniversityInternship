@@ -470,8 +470,9 @@ Dopo averlo concordato con il colloquio con il relatore Creazione di un portale 
 
 PAUSA DI NATALE 21/12/2020 - 25/12/2020
 
-----
-
+     ----   
+ ## Settimana 14:
+ 
    66. Day
    - all day: 28/12/2020 
      * ho scritto un po di documentazione 
@@ -503,6 +504,8 @@ ANNO NUOVO : 2021
 
 ----
 
+ ## Settimana 15:
+ 
    70. Day
    - all day: 04/01/2021
      * creato container posgresql, cerano alcuni problemi di conessione
@@ -532,6 +535,22 @@ ANNO NUOVO : 2021
    - all day: 08/01/2021
      * provato ad impostare bootstrap per il server 
      * scritto un po di documentazione 
+ 
+      ----  
+ ## Settimana 16:
+
+   75. Day  
+   - all day: 11/01/2021
+     * provato ad impostare bootstrap per il server 
+     * scritto un po di documentazione
+     * riguardo alcuni aspetti di docker 
+     
+   76. Day  
+   - all day: 12/01/2021
+     * creato un template di per una djangoapp  
+     * presentato schermata di login 
+     * deciso template bootstrap da usare 
+     
       
      
    
