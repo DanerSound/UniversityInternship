@@ -551,7 +551,20 @@ ANNO NUOVO : 2021
      * presentato schermata di login 
      * deciso template bootstrap da usare 
      
-      
+   77. Day  
+   - all day: 13/01/2021
+     * seguito corso django
+     * eseguito delle prove 
+
+   78. Day  
+   - all day: 14/01/2021
+     * seguito corso django  
+     * eseguito delle prove 
+     
+   79. Day  
+   - all day: 15/01/2021
+     * seguito corso django  
+     * eseguito delle prove 
      
    
   
