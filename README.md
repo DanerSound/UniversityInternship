@@ -566,6 +566,20 @@ ANNO NUOVO : 2021
      * seguito corso django  
      * eseguito delle prove 
      
+    
+      ----  
+ ## Settimana 17
+
+   80.Day  
+   - all day: 18/01/2021
+     * seguito corso django  
+     * eseguito delle prove 
+     
+   81.Day  
+   - all day: 19/01/2021
+     * riscritto alcuni appunti del corso  
+     * scritto documentazione specifica 
+     
    
   
   
