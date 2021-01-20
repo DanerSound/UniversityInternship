@@ -579,6 +579,10 @@ ANNO NUOVO : 2021
    - all day: 19/01/2021
      * riscritto alcuni appunti del corso  
      * scritto documentazione specifica 
+   
+   82.Day  
+   - all day: 20/01/2021
+     * creato path di redict, costruito prima versione stabile della webapp  
      
    
   
