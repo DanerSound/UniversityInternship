@@ -582,8 +582,21 @@ ANNO NUOVO : 2021
    
    82.Day  
    - all day: 20/01/2021
-     * creato path di redict, costruito prima versione stabile della webapp  
+     * creato path di redirect, costruito prima versione stabile della webapp 
      
+   83.Day  
+   - all day: 20/01/2021
+     * riscritto alcuni appunti del corso
+     * scritto documentazione specifica 
+      
+   84.Day  
+   - all day: 22/01/2021
+     * generalizzato le pagine di redirect, 
+     * rifattorizzato il tema da usare
+     * iniziato corso di test in django
+  
+   ----  
+ ## Settimana 18
    
   
   
