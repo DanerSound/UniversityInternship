@@ -311,8 +311,10 @@ Dopo averlo concordato con il colloquio con il relatore Creazione di un portale 
       
    45 Day:
  - all day: 20/11/20 
-    * ristrutturato i documento scritti precedentemente, 
-    * creato uno nuovo schema di progetto dedicato per i cloud: analizzato il programma  di aws.
+      * ristrutturato i documento scritti precedentemente 
+    
+      * creato uno nuovo schema di progetto dedicato per i cloud: analizzato il programma  di aws.
+    
     
 ----   
  ## Settimana 10:
