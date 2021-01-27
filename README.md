@@ -599,6 +599,34 @@ ANNO NUOVO : 2021
   
    ----  
  ## Settimana 18
+ 
+   85.Day  
+   - all day: 25/01/2021
+     * seguito corso django  
+     * eseguito delle prove
+     * lavorato sul portale
+     
+   81.Day  
+   - all day: 26/01/2021
+     * scritto la documentazione per influx db 
+     * provato a creare il menu a tendina
+     * scritto lista dei problemi da risolvere
+   
+   82.Day  
+   - all day: 27/01/2021
+     * creato menu a tendina richisto
+     * rifattorizzato un po il codice
+     
+   83.Day  
+   - all day: 28/01/2021
+     * riscritto alcuni appunti del corso
+     * scritto documentazione specifica 
+      
+   84.Day  
+   - all day: 29/01/2021
+     * generalizzato le pagine di redirect, 
+     * rifattorizzato il tema da usare
+     * iniziato corso di test in django
    
   
   
