@@ -619,14 +619,15 @@ ANNO NUOVO : 2021
      
    83.Day  
    - all day: 28/01/2021
-     * riscritto alcuni appunti del corso
-     * scritto documentazione specifica 
+     * iniziato la ricerca di un pluging per creare il mirroring di influxdb con postgrest
+     * riscrito alcuni appunti al pc 
+     * cercato di capire bootstrap
       
    84.Day  
    - all day: 29/01/2021
-     * generalizzato le pagine di redirect, 
-     * rifattorizzato il tema da usare
-     * iniziato corso di test in django
+     *  sistema alcuni aspetti del front-end
+     *  ho ancora dei problemi con django e influx
+     
    
   
   
