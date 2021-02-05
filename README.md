@@ -606,27 +606,53 @@ ANNO NUOVO : 2021
      * eseguito delle prove
      * lavorato sul portale
      
-   81.Day  
+   86.Day  
    - all day: 26/01/2021
      * scritto la documentazione per influx db 
      * provato a creare il menu a tendina
      * scritto lista dei problemi da risolvere
    
-   82.Day  
+   87.Day  
    - all day: 27/01/2021
      * creato menu a tendina richisto
      * rifattorizzato un po il codice
      
-   83.Day  
+   88.Day  
    - all day: 28/01/2021
      * iniziato la ricerca di un pluging per creare il mirroring di influxdb con postgrest
      * riscrito alcuni appunti al pc 
      * cercato di capire bootstrap
       
-   84.Day  
+   89.Day  
    - all day: 29/01/2021
      *  sistema alcuni aspetti del front-end
      *  ho ancora dei problemi con django e influx
+     
+     
+        ----  
+ ## Settimana 19
+ 
+   90.Day  
+   - all day: 01/02/2021
+     PERMESSO 
+     
+   91.Day  
+   - all day: 02/02/2021
+     PERMESSO
+   
+   92.Day  
+   - all day: 03/02/2021
+     PERMESSO
+     
+   93.Day  
+   - all day: 04/02/2021
+     PERMESSO
+      
+   94.Day  
+   - all day: 05/02/2021
+     *
+     *
+     *
      
    
   
