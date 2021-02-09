@@ -650,6 +650,35 @@ ANNO NUOVO : 2021
       
    94.Day  
    - all day: 05/02/2021
+     * scritto un po di documentazione 
+     * analizzando la vechia interfaccai grafica ho capito che ci sono degli errori di impagninazine 
+     * ho provato a recuperare ma non puo funzionare 
+     
+     
+             ----  
+ ## Settimana 20
+ 
+   95.Day  
+   - all day: 08/02/2021
+     * scritto un po di documentazione
+     * definito dei punti del progetto 
+     * impostato schema base per il progetto "grafanaSED"
+     * forse ho trovato il modo di far comunicare entrambi database
+     
+   96.Day  
+   - all day: 09/02/2021
+     * scritto un po di documentazione specifica
+   
+   97.Day  
+   - all day: 10/02/2021
+     PERMESSO
+     
+   98.Day  
+   - all day: 11/02/2021
+     PERMESSO
+      
+   99.Day  
+   - all day: 12/02/2021
      *
      *
      *
