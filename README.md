@@ -668,14 +668,16 @@ ANNO NUOVO : 2021
    96.Day  
    - all day: 09/02/2021
      * scritto un po di documentazione specifica
+     * for se ho trovato un il modo di far comunicare, entrambi i database
+     ma è complicato 
    
    97.Day  
    - all day: 10/02/2021
-     PERMESSO
+     
      
    98.Day  
    - all day: 11/02/2021
-     PERMESSO
+     
       
    99.Day  
    - all day: 12/02/2021
