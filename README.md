@@ -673,10 +673,18 @@ ANNO NUOVO : 2021
    
    97.Day  
    - all day: 10/02/2021
-     
+     * provato a cercare una interfaccia simille grafana
+     * provato a far tornare l'idea di copiare i due database
+     * discusione riguarda come procedere,
+     * forse ho trovato i plugin
+     * devo ripristirare i servizi 
      
    98.Day  
    - all day: 11/02/2021
+    * ripristinato l'interfaccia di login 
+    * ho capito come collegarmi ad entrambi database contemporaneamente 
+    * ci sono dei problemi di login con influxdb
+    
      
       
    99.Day  
