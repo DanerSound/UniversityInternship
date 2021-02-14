@@ -629,7 +629,7 @@ ANNO NUOVO : 2021
      *  ho ancora dei problemi con django e influx
      
      
-        ----  
+ ----  
  ## Settimana 19
  
    90.Day  
@@ -655,7 +655,7 @@ ANNO NUOVO : 2021
      * ho provato a recuperare ma non puo funzionare 
      
      
-             ----  
+ ----  
  ## Settimana 20
  
    95.Day  
@@ -694,7 +694,7 @@ ANNO NUOVO : 2021
      * ripristinato l'interfaccia principale
        perso tanto tempo nel cercare di generalizzare la barra laterale
     
-                 ----  
+  ----  
  ## Settimana 21
  
    100.Day  
