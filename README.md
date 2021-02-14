@@ -636,23 +636,27 @@ ANNO NUOVO : 2021
    - all day: 01/02/2021
      PERMESSO 
      
+     
    91.Day  
    - all day: 02/02/2021
      PERMESSO
+     
    
    92.Day  
    - all day: 03/02/2021
      PERMESSO
      
+     
    93.Day  
    - all day: 04/02/2021
      PERMESSO
+     
       
    94.Day  
    - all day: 05/02/2021
-     * scritto un po di documentazione 
-     * analizzando la vechia interfaccai grafica ho capito che ci sono degli errori di impagninazine 
-     * ho provato a recuperare ma non puo funzionare 
+      * scritto un po di documentazione 
+      * analizzando la vechia interfaccai grafica ho capito che ci sono degli errori di impagninazine 
+      * ho provato a recuperare ma non puo funzionare 
      
      
  ----  
@@ -681,9 +685,9 @@ ANNO NUOVO : 2021
      
    98.Day  
    - all day: 11/02/2021
-    * ripristinato l'interfaccia di login 
-    * ho capito come collegarmi ad entrambi database contemporaneamente 
-    * ci sono dei problemi di login con influxdb
+     * ripristinato l'interfaccia di login 
+     * ho capito come collegarmi ad entrambi database contemporaneamente 
+     * ci sono dei problemi di login con influxdb
     
      
       
@@ -699,7 +703,7 @@ ANNO NUOVO : 2021
  
    100.Day  
    - all day: 15/02/2021
-     * 
+      * 
    
   
   
