@@ -689,10 +689,17 @@ ANNO NUOVO : 2021
       
    99.Day  
    - all day: 12/02/2021
-     *
-     *
-     *
-     
+     * trovato un client per influxdb : 
+       potrebbe risolvere il problema della copia del contenuto del database
+     * ripristinato l'interfaccia principale
+       perso tanto tempo nel cercare di generalizzare la barra laterale
+    
+                 ----  
+ ## Settimana 21
+ 
+   100.Day  
+   - all day: 15/02/2021
+     * 
    
   
   
