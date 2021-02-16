@@ -703,7 +703,15 @@ ANNO NUOVO : 2021
  
    100.Day  
    - all day: 15/02/2021
-      * 
+      * ripristinato l'interfaccia, fatto un po di refactoring 
+      * approfonfita la conoscenza di bootstrap
+      * iniziato un corso sul javascript
+      
+   100.Day  
+   - all day: 16/02/2021
+      * rifattorizzato ulteriormente l'interfaccia, generalizzato e migliorata 
+      * asd
+      
    
   
   
