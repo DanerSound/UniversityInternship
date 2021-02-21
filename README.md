@@ -710,8 +710,46 @@ ANNO NUOVO : 2021
    100.Day  
    - all day: 16/02/2021
       * rifattorizzato ulteriormente l'interfaccia, generalizzato e migliorata 
-      * asd
+      * ripresso corso docker, contiuato corso sul javscript
       
+   101.Day  
+   - all day: 17/02/2021
+      * continuato la lavorare sull'interfaccia
+      * scritto documentazione specifica
+
+
+   102.Day  
+   - all day: 18/02/2021
+      * trovato il client giusto per parlare con influx e postgrest contemporaneamente
+      * prime prove di comunicazione
+
+   103.Day  
+   - all day: 19/02/2021
+      *  participato ad una call con un cliente svedese 
+      *  risolto un problema con telegraf
+      *  scritto documentazione specifica 
+
+  ----  
+ ## Settimana 22
+ 
+   103.Day  
+   - all day: 22/02/2021
+            
+   104.Day  
+   - all day: 23/02/2021
+
+   105.Day  
+   - all day: 24/02/2021
+
+   106.Day  
+   - all day: 25/02/2021
+
+   107.Day  
+   - all day: 26/02/2021
+
+
+      
+ 
    
   
   
