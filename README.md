@@ -738,6 +738,9 @@ ANNO NUOVO : 2021
             
    104.Day  
    - all day: 23/02/2021
+      * lavorato un po sull'interfaccia grafica
+      * definito scheda di layout per il frontend
+      * 
 
    105.Day  
    - all day: 24/02/2021
