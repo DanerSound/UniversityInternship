@@ -740,13 +740,14 @@ ANNO NUOVO : 2021
    - all day: 23/02/2021
       * lavorato un po sull'interfaccia grafica
       * definito scheda di layout per il frontend
-      * 
-
+     
    105.Day  
    - all day: 24/02/2021
+      * lavorato sul front-end
 
    106.Day  
    - all day: 25/02/2021
+     * refactoring completo del fronted
 
    107.Day  
    - all day: 26/02/2021
