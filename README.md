@@ -754,6 +754,30 @@ ANNO NUOVO : 2021
      * scritto un po di documentazione specifica 
      * aggiunto il filtering dei clienti  
 
+  ----  
+ ## Settimana 23
+ 
+   108.Day  
+   - all day: 01/03/2021
+      * lavorato sull'interfaccia grafica
+            
+   109.Day  
+   - all day: 02/03/2021
+      * lavorato sull'interfaccia grafica 
+      * prime prove di iterazioni con il database
+     
+   110.Day  
+   - all day: 03/03/2021
+      * 
+
+   111.Day  
+   - all day: 04/03/2021
+     * 
+
+   112.Day  
+   - all day: 05/03/2021
+     * 
+     * 
 
       
  
