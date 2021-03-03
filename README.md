@@ -768,7 +768,7 @@ ANNO NUOVO : 2021
      
    110.Day  
    - all day: 03/03/2021
-      * 
+      * creazione dei modelli e iterazioni con il db: prove svolte con sucesso 
 
    111.Day  
    - all day: 04/03/2021
