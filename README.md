@@ -772,7 +772,7 @@ ANNO NUOVO : 2021
 
    111.Day  
    - all day: 04/03/2021
-     * 
+     * prove di iterazioni con il db : ho avuto dei problemi 
 
    112.Day  
    - all day: 05/03/2021
