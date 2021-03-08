@@ -776,13 +776,33 @@ ANNO NUOVO : 2021
 
    112.Day  
    - all day: 05/03/2021
-     * 
+     * prove di itarazioni con modelli e database
+     * recupero e personalizzazione di sed.manuletic da installare successivamente su un server
+     locale
+     
+       ----  
+ ## Settimana 24
+ 
+   113.Day  
+   - all day: 08/03/2021
+      * 
+            
+   114.Day  
+   - all day: 09/03/2021
+      * 
+      * 
+     
+   115.Day  
+   - all day: 10/03/2021
+      * 
+
+   116.Day  
+   - all day: 11/3/2021
      * 
 
-      
- 
-   
-  
+   117.Day  
+   - all day: 12/03/2021
+     *   
   
     
    
