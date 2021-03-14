@@ -785,24 +785,26 @@ ANNO NUOVO : 2021
  
    113.Day  
    - all day: 08/03/2021
-      * 
+      * lavorato sull'interfaccia grafica
+      * installato installazione di sed.manuletic nel database aziendale
             
    114.Day  
    - all day: 09/03/2021
-      * 
-      * 
+     * ancora prove sui modelli di django e con il db
+     * prove di itarazioni con modelli e database
      
    115.Day  
    - all day: 10/03/2021
-      * 
+     * ultimato l'interfaccia grafica 
+     * prove di itarazioni con modelli e database
 
    116.Day  
    - all day: 11/3/2021
-     * 
+     * prove di itarazioni con modelli e database
 
    117.Day  
    - all day: 12/03/2021
-     *   
+     * prove di itarazioni con modelli e database  
   
     
    
