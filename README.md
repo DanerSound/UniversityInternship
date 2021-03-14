@@ -7,7 +7,7 @@ Calcolo delle e Giorni del Tirocinio :
 
 | Mese           | Ore | Giorni | 
 |----------------|-----|--------|
-| Settembre 2020 |     |   8    |
+| Settembre 2020 |  64 |   8    |
 | Ottobre 2020   |     |   31   |
 | Novembre 2020  |     |   30   |
 | Dicembre 2020  |     |   31   |
