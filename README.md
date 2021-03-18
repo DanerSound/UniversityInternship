@@ -830,6 +830,7 @@ ANNO NUOVO : 2021
    116.Day  
    - all day: 18/3/2021
      * provato a creare la funzione per registrare nuovi contratti nel db
+     * iniziato ad integrare le singole prove 
      *   
 
 
