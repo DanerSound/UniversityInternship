@@ -811,18 +811,26 @@ ANNO NUOVO : 2021
  
    113.Day  
    - all day: 15/03/2021
-      * 
+      * lavorato sulla stensione dei modelli di django
+      * ristruturato i file models
             
    114.Day  
    - all day: 16/03/2021
-     * 
+     * prove di iterazione con il db dato il nuovo models
+     * prove di riscrittura 
+     * scrittura di un po di documentazione
      
    115.Day  
    - all day: 17/03/2021
-     * 
+     * ho provato a estendere il modello dei gruop, 
+     * ripresso le prove di iterazioni con il db
+     * ripristinato la demo di "Manuletic" sul  nuovo server dell'azienda
+       (perche fine settimana scorso i server di OVH hanno presso fuoco in Francia)
 
    116.Day  
    - all day: 18/3/2021
+     * provato a creare la funzione per registrare nuovi contratti nel db
+     *   
 
 
    117.Day  
