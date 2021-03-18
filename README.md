@@ -810,81 +810,70 @@ ANNO NUOVO : 2021
  ## Settimana 25
  
    113.Day  
-   - all day: 08/03/2021
-      * lavorato sull'interfaccia grafica
-      * installato installazione di sed.manuletic nel database aziendale
+   - all day: 15/03/2021
+      * 
             
    114.Day  
-   - all day: 09/03/2021
-     * ancora prove sui modelli di django e con il db
-     * prove di itarazioni con modelli e database
+   - all day: 16/03/2021
+     * 
      
    115.Day  
-   - all day: 10/03/2021
-     * ultimato l'interfaccia grafica 
-     * prove di itarazioni con modelli e database
+   - all day: 17/03/2021
+     * 
 
    116.Day  
-   - all day: 11/3/2021
-     * prove di itarazioni con modelli e database
+   - all day: 18/3/2021
+
 
    117.Day  
-   - all day: 12/03/2021
-     * prove di itarazioni con modelli e database  
+   - all day: 19/03/2021
+     * 
 
        ----  
  ## Settimana 26
  
    113.Day  
-   - all day: 08/03/2021
-      * lavorato sull'interfaccia grafica
-      * installato installazione di sed.manuletic nel database aziendale
+   - all day: 22/03/2021
+      * 
             
    114.Day  
-   - all day: 09/03/2021
-     * ancora prove sui modelli di django e con il db
-     * prove di itarazioni con modelli e database
+   - all day: 23/03/2021
+     * 
      
    115.Day  
-   - all day: 10/03/2021
-     * ultimato l'interfaccia grafica 
-     * prove di itarazioni con modelli e database
+   - all day: 24/03/2021
+     * 
 
    116.Day  
-   - all day: 11/3/2021
-     * prove di itarazioni con modelli e database
+   - all day: 25/03/2021
+     * 
 
    117.Day  
-   - all day: 12/03/2021
-     * prove di itarazioni con modelli e database  
-
+   - all day: 26/03/2021
+     * 
 
        ----  
  ## Settimana 27
  
    113.Day  
-   - all day: 08/03/2021
-      * lavorato sull'interfaccia grafica
-      * installato installazione di sed.manuletic nel database aziendale
+   - all day: 29/03/2021
+      * 
             
    114.Day  
-   - all day: 09/03/2021
-     * ancora prove sui modelli di django e con il db
-     * prove di itarazioni con modelli e database
+   - all day: 30/03/2021
+     * 
      
    115.Day  
-   - all day: 10/03/2021
-     * ultimato l'interfaccia grafica 
-     * prove di itarazioni con modelli e database
+   - all day: 31/03/2021
+     * 
 
    116.Day  
-   - all day: 11/3/2021
-     * prove di itarazioni con modelli e database
+   - all day: 01/04/2021
+     * 
 
    117.Day  
-   - all day: 12/03/2021
-     * prove di itarazioni con modelli e database  
-  
+   - all day: 02/04/2021
+     * 
     
    
     
