@@ -830,13 +830,13 @@ ANNO NUOVO : 2021
    116.Day  
    - all day: 18/3/2021
      * provato a creare la funzione per registrare nuovi contratti nel db
-     * iniziato ad integrare le singole prove 
-     *   
-
+     * iniziato ad integrare le singole prove  
 
    117.Day  
    - all day: 19/03/2021
-     * 
+     * aggiornato database
+     * generalizzato ulteriormente il fronted per gestire le chiamate degli utenti 
+       riesco a raggingere ed stampare le tabelle di postgrest 
 
        ----  
  ## Settimana 26
