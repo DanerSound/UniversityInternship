@@ -843,7 +843,8 @@ ANNO NUOVO : 2021
  
    113.Day  
    - all day: 22/03/2021
-      * 
+      * aggiunta di template per anagrafica di clienti
+      * refacotring dei alcuni metodi 
             
    114.Day  
    - all day: 23/03/2021
