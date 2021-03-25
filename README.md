@@ -848,15 +848,19 @@ ANNO NUOVO : 2021
             
    114.Day  
    - all day: 23/03/2021
-     * 
+     * lavorato un po sulla grafica
+     * iniziato refacoring della documentazione 
      
    115.Day  
    - all day: 24/03/2021
-     * 
+     * continuato scrittura e refacoring della documentazione
+     * iniziato corso fullStack developer su udemy
 
    116.Day  
    - all day: 25/03/2021
-     * 
+     * completato documentazione specifica
+     * seguito alcune lezioni del corso di fullstack developer su udemy
+     * ho ripresso il lavoro sul portale la parte fronted
 
    117.Day  
    - all day: 26/03/2021
