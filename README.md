@@ -872,15 +872,16 @@ ANNO NUOVO : 2021
    113.Day  
    - all day: 29/03/2021
       * rielaborato e modelli, aggiunti campi richiesti ed eseguitto delle prove
-      * 
+  
             
    114.Day  
    - all day: 30/03/2021
-     * 
+     * ristrutturato il portale, lavorato sulle funzioni di registrazione
      
    115.Day  
    - all day: 31/03/2021
-     * 
+     * generalizzato i modelli, ultimato frontend
+     * inizio integrazione client influx
 
    116.Day  
    - all day: 01/04/2021
