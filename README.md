@@ -886,7 +886,7 @@ ANNO NUOVO : 2021
 
    116.Day  
    - all day: 01/04/2021
-     * 
+     * caricamentamento di alcuni valori sull'interfaccia grafica in forma statica
 
    117.Day  
    - all day: 02/04/2021
